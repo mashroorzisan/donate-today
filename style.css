@@ -105,3 +105,24 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+.one {
+    background-color: #4f9da638;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding: 50px 10px;
+}
+
+.two {
+    background-color: #FF595938;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 50px 10px;
+}
+
+.three {
+    background-color: #FFF4D6;
+    margin-left: 2%;
+    margin-right: 5%;
+    padding: 50px 10px;
+}
