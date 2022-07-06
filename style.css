@@ -55,7 +55,7 @@ body {
     flex-direction: column;
 }
 
-.donation h1 {
+.hstyles {
     text-align: center;
     font-size: 45px;
 }
@@ -101,4 +101,7 @@ body {
     margin-left: 40vh;
 }
 
-.plan {}
+.donation-plan {
+    display: flex;
+    flex-direction: row;
+}
