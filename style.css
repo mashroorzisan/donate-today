@@ -47,6 +47,7 @@ body {
     margin-left: 45%;
     font-weight: bold;
     font-size: 20px;
+    margin-top: 20px;
 }
 
 .donation {
@@ -86,4 +87,16 @@ body {
 
 .row {
     margin: 5vh 50vh 5vh;
+}
+
+.plan {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: #B3B3B3;
+    text-align: center;
+    margin-top: 8vh;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #B3B3B3;
+    width: 60%;
+    margin-left: 40vh;
 }
