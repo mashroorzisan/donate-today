@@ -203,3 +203,21 @@ body {
     text-align: center;
     margin-top: 10vh;
 }
+
+footer {
+    background-color: #0B0D17;
+    color: #FF5959;
+    height: 100px;
+    width: auto;
+    margin: 0;
+}
+
+footer h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+footer p {
+    text-align: center;
+    color: grey;
+}
