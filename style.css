@@ -34,6 +34,7 @@ body {
     text-align: center;
     color: white;
     margin-top: 0;
+    padding: 0 20%;
 }
 
 .button {
@@ -48,14 +49,6 @@ body {
     font-size: 20px;
 }
 
-
-.amount {
-    width: 50px;
-    border-radius: 5px;
-
-}
-
-
 .donation {
     display: flex;
     flex-direction: column;
@@ -63,4 +56,34 @@ body {
 
 .donation h1 {
     text-align: center;
+    font-size: 45px;
+}
+
+.pstyles {
+    font-size: 18px;
+    text-align: center;
+    color: grey;
+    margin-top: 0;
+    padding: 0 20%;
+}
+
+.amount {
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    padding: 25px;
+    margin: 5px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #707070;
+
+
+}
+
+.orange {
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+}
+
+.row {
+    margin: 5vh 50vh 5vh;
 }
